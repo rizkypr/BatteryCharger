@@ -1,3 +1,5 @@
 # BatteryCharger
 
-this is created
+ArduinoLib_MAX17043 library from:
+https://github.com/lucadentella/ArduinoLib_MAX17043
+
